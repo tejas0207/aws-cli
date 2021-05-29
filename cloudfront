@@ -1,0 +1,3 @@
+# create cloudfront 
+
+aws cloudfront create-distribution --origin-domain-name airek.s3.amazonaws.com
