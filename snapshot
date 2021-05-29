@@ -1,0 +1,3 @@
+#create snapshot of an ebs volume
+
+aws ec2 create-snapshot --volume-id vol-036f0482da958a143
